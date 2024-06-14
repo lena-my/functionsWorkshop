@@ -1,0 +1,15 @@
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/bin/Debug/net8.0/Functions
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/bin/Debug/net8.0/Functions.deps.json
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/bin/Debug/net8.0/Functions.runtimeconfig.json
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/bin/Debug/net8.0/Functions.dll
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/bin/Debug/net8.0/Functions.pdb
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/obj/Debug/net8.0/Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/obj/Debug/net8.0/Functions.AssemblyInfoInputs.cache
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/obj/Debug/net8.0/Functions.AssemblyInfo.cs
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/obj/Debug/net8.0/Functions.csproj.CoreCompileInputs.cache
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/obj/Debug/net8.0/Functions.sourcelink.json
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/obj/Debug/net8.0/Functions.dll
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/obj/Debug/net8.0/refint/Functions.dll
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/obj/Debug/net8.0/Functions.pdb
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/obj/Debug/net8.0/Functions.genruntimeconfig.cache
+/Users/helenamiura/Projects/Net/21-atelierFunctions/Functions/obj/Debug/net8.0/ref/Functions.dll
